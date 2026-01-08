@@ -5,4 +5,4 @@ print(topping)
 fruit = grocery_items[18:25]
 print(fruit)
 
-print(topping,"and",fruit)
+print(topping+" "+fruit)
